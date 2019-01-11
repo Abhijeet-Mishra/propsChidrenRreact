@@ -1,2 +1,0 @@
-# propsChidrenRreact
-Created with CodeSandbox
